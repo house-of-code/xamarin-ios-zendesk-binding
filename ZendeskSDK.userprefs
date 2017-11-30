@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZendeskProviderSDK/ApiDefinition.cs">
+    <Files>
+      <File FileName="ZendeskSDK/ApiDefinition.cs" Line="68" Column="1" />
+      <File FileName="ZendeskSDK/StructsAndEnums.cs" Line="1" Column="1" />
+      <File FileName="ZendeskProviderSDK/StructsAndEnums.cs" Line="1" Column="1" />
+      <File FileName="ZendeskProviderSDK/ApiDefinition.cs" Line="117" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

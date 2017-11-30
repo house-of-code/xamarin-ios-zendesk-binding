@@ -1,0 +1,6 @@
+/Users/rts/code/lola-xamarin/Lola/ZendeskSDK/bin/Release/ZendeskSDK.dll
+/Users/rts/code/lola-xamarin/Lola/ZendeskSDK/bin/Release/ZendeskSDK.pdb
+/Users/rts/code/lola-xamarin/Lola/ZendeskSDK/obj/Release/ZendeskSDK.csprojResolveAssemblyReference.cache
+/Users/rts/code/lola-xamarin/Lola/ZendeskSDK/obj/Release/ZendeskSDK.csproj.CoreCompileInputs.cache
+/Users/rts/code/lola-xamarin/Lola/ZendeskSDK/obj/Release/ZendeskSDK.dll
+/Users/rts/code/lola-xamarin/Lola/ZendeskSDK/obj/Release/ZendeskSDK.pdb

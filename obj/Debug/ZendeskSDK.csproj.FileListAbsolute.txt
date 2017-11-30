@@ -1,0 +1,10 @@
+/Users/rts/code/lola-xamarin/Lola/ZendeskSDK/bin/Debug/ZendeskSDK.dll
+/Users/rts/code/lola-xamarin/Lola/ZendeskSDK/bin/Debug/ZendeskSDK.pdb
+/Users/rts/code/lola-xamarin/Lola/ZendeskSDK/obj/Debug/ZendeskSDK.csproj.CoreCompileInputs.cache
+/Users/rts/code/lola-xamarin/Lola/ZendeskSDK/obj/Debug/ZendeskSDK.dll
+/Users/rts/code/lola-xamarin/Lola/ZendeskSDK/obj/Debug/ZendeskSDK.pdb
+/Users/rts/code/xamarin-ios-zendesk-binding/bin/Debug/ZendeskSDK.dll
+/Users/rts/code/xamarin-ios-zendesk-binding/bin/Debug/ZendeskSDK.pdb
+/Users/rts/code/xamarin-ios-zendesk-binding/obj/Debug/ZendeskSDK.csproj.CoreCompileInputs.cache
+/Users/rts/code/xamarin-ios-zendesk-binding/obj/Debug/ZendeskSDK.dll
+/Users/rts/code/xamarin-ios-zendesk-binding/obj/Debug/ZendeskSDK.pdb
