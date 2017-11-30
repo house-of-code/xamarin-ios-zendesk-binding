@@ -9,7 +9,7 @@ A Xamarin iOS Binding for Zendesk Support SDK
 Init the project in AppDelegate:
 
     var z = ZDKConfig.Instance();
-    z.InitializeWithAppId("<app id>", "<zenesk url>", "<mobile key>");
+    z.InitializeWithAppId("<app id>", "<zendesk url>", "<mobile key>");
     z.UserIdentity = new ZDKAnonymousIdentity();
 
     var baseTheme = ZDKTheme.BaseTheme();
