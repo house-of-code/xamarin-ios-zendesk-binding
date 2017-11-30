@@ -28,7 +28,7 @@ Then show the support gui (from a UIViewController):
      var model = ZDKHelpCenterOverviewContentModel.defaultContent();
      var helpCenter = new ZDKHelpCenterOverviewController(model);
 
-     helpCenter.NavigationItem.LeftBarButtonItem = new UIBarButtonItem("Annuller", UIBarButtonItemStyle.Plain, (sender1, ev1) => {
+     helpCenter.NavigationItem.LeftBarButtonItem = new UIBarButtonItem("Annuller", UIBarButtonItemStyle.Plain, (sender, ev) => {
           this.DismissViewController(true, null);
      });
 
