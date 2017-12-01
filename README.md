@@ -34,3 +34,6 @@ Then show the support gui (from a UIViewController):
 
      var nav = new UINavigationController(helpCenter);
      this.PresentViewControllerAsync(nav, true);
+
+
+#BeAwesome
